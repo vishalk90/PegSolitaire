@@ -2,7 +2,6 @@ import java.util.*;
 
 /**
  * Created by Vishal Kulkarni on 11/29/16.
- *    VVK27 | CS635 | vvk27@njit.edu
  */
 
 /*
