@@ -4,7 +4,6 @@ from random import shuffle
 
 ############################################
 #  Created by Vishal Kulkarni on 11/29/16.
-#     VVK27 | CPL635 | vvk27@njit.edu
 ############################################
 
 
