@@ -1,5 +1,5 @@
 /*
-Vishal Kulkarni | VVK27 | CPL | CS635 | vvk27@njit.edu
+Vishal Kulkarni
 */
 #include<iostream>
 #include<vector> 
